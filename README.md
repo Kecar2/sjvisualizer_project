@@ -5,3 +5,4 @@ Visualización de datos temporales con librería
 
 Datos extraidos de [World Bank Open Data](https://datos.bancomundial.org/)
 
+![Animación GIF](URL_DEL_GIF)
